@@ -1,0 +1,10 @@
+Reference,Qty,Value,MFR,MFR No.,Mouser No.,Datasheet,Note
+A1,1,Raspberry Pi Pico,Raspberry Pi,SC0915,358-SC0915,https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf,If you want the headers you will need to buy elsewhere
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20",20,RED LED,Cree LED,C5SMF-RJF-CT0W0BB2,941-C5SMFRJFCT0W0BB2,~,
+J1,1,USB C,GCT,USB4085-GF-A,640-USB4085-GF-A,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,
+"Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20",20,NPN,onsemi / Fairchild,BC547BBU,512-BC547BBU,https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs,
+"R1,R2",2,5.1kOhms,KOA Speer,MF1/4DCT52R5101F,660-MF1/4DCT52R5101F,~,
+"R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22",20,154Ohms,Vishay / Beyschlag,MBA02040C1540FRP00,594-MBA02040C1540FRP,~,
+"R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42",20,1.18kOhms,YAGEO,MFR-25FRF52-1K18,603-MFR-25FRF52-1K18,~,
+SW1,1,~,Same Sky,TS02-66-70-BK-260-LCR-D,179-TS026670BK260LCR,~,
+U1,1,DS3231M,WINGONEER,ASIN : B01H5NAFUY,,http://datasheets.maximintegrated.com/en/ds/DS3231.pdf,Amazon link : https://amzn.eu/d/fGpd2tB
