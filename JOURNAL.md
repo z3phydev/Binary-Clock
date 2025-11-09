@@ -10,7 +10,7 @@
 
 I begun the schematic. A pico and RTC will be the heart of this, gpio pins will contorl transistors to allow the correct leds to light up. An rtc module will contorl the time. I've still to connect the leds and transistors. I will soon start to have too think about the actual components to allow right current and voltage ect. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODczOCwicHVyIjoiYmxvYl9pZCJ9fQ==--93916cabbd9fed9ee5eda8e05623732facfa5ba1/image.png) ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODczOSwicHVyIjoiYmxvYl9pZCJ9fQ==--66dc95b330d3e6c3ad2b2221f03f658c0e9dc00c/image.png)  
 
-## 11/6/2025 9 PM - All thats left to do is resistors  
+## 11/6/2025 9 PM - All thats left to do is resistors - Time Spent 2.5 Hours  
 
 Finished connecting all the LEDs and transistors, Yet to add the restiance for the resistors from the power and yet to pun any restiors on the gpio lines. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--4f810490c3784600089a1dae3319d7b731d27146/image.png)
   
