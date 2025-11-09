@@ -20,7 +20,7 @@ Finished connecting all the LEDs and transistors, Yet to add the restiance for t
 Finished the Schematic. All the components and wires in place. All the resitors now have values. And picked out all my componets from Mouser, still need to do the BOM but I've got them all so that should be easy. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--85231a8b8cc7b39665e2e73addbebcb4b458e53a/image.png)
   
 
-## 11/8/2025 11 AM - V1 of BOM complete  
+## 11/8/2025 11 AM - V1 of BOM complete - Time Spent Little under an Hour  
 
 Got all the parts selected and made a [BOM](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e1ad649c08b2cf2d86da2a36774f975a52a059b6/BOM.csv). Almost all componets are from Mouser with the only non Mouser part being the RTC Breakout board (from Amazon). ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--fb60c7147071e88a8cec33c89c2f2ad7adc1e2bf/image.png)
   
