@@ -25,7 +25,7 @@ Finished the Schematic. All the components and wires in place. All the resitors 
 Got all the parts selected and made a [BOM](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e1ad649c08b2cf2d86da2a36774f975a52a059b6/BOM.csv). Almost all componets are from Mouser with the only non Mouser part being the RTC Breakout board (from Amazon). ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--fb60c7147071e88a8cec33c89c2f2ad7adc1e2bf/image.png)
   
 
-## 11/8/2025 7 PM - 75% through the PCB  
+## 11/8/2025 7 PM - 75% through the PCB - Time Spent Almost 4 Hours  
 
 Almost done desgining, got down the layout, started the routing process. The PCB will be roughly 24cm x 8 cm in size. IDK why it took soo long to get here. I think I might print a stand for it! ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--1d9a522957208ca79d5bd97b3559d3c705edf55d/image.png)
   
