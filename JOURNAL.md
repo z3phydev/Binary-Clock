@@ -35,7 +35,7 @@ Almost done desgining, got down the layout, started the routing process. The PCB
 Finnished the pcb, all parts routed, all parts placed. This took way longer than I thought it would as usall, you never really think about it till you start logging it. Just now to get all the requirements and then finnally ship it! ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc4NywicHVyIjoiYmxvYl9pZCJ9fQ==--8760ed459ecb73188ae9fff5a77c78dc8e30afa3/image.png)
   
 
-## 11/9/2025 6 PM - Stand  
+## 11/9/2025 6 PM - Stand - Time Spent 25 Min  
 
 After thinking some thoughts I quickly made up a litte stand for the pcb. I will probally end up making somthing similar out of bent acylic, this mostly just a quick visaulisation. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--750348525759315b7b2e5d4c14da768495b51704/image.png) ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgyMywicHVyIjoiYmxvYl9pZCJ9fQ==--c4f3a0bd6e778b50814eddde306838deef97be51/image.png)
 
