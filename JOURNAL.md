@@ -15,7 +15,7 @@ I begun the schematic. A pico and RTC will be the heart of this, gpio pins will 
 Finished connecting all the LEDs and transistors, Yet to add the restiance for the resistors from the power and yet to pun any restiors on the gpio lines. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--4f810490c3784600089a1dae3319d7b731d27146/image.png)
   
 
-## 11/7/2025 - Finished the Schematic  
+## 11/7/2025 - Finished the Schematic - Time Spent 3 Hours  
 
 Finished the Schematic. All the components and wires in place. All the resitors now have values. And picked out all my componets from Mouser, still need to do the BOM but I've got them all so that should be easy. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--85231a8b8cc7b39665e2e73addbebcb4b458e53a/image.png)
   
