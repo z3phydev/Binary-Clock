@@ -41,3 +41,8 @@ After thinking some thoughts I quickly made up a litte stand for the pcb. I will
 
   
 
+## 11/9/2025 7 PM - Time Logged 15.7 Hours  
+
+If you count the amount of reasearch and time spent think it would be a whole lot more. All I'm doing now if filling out the guildlines and then time to ship!         Also It said put your total time up top but the md says not to edit it so just doing here then ig. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--604562453bb20aa8df655c5adb820be453599c1f/image.png)
+  
+
