@@ -30,3 +30,8 @@ Got all the parts selected and made a [BOM](/user-attachments/blobs/proxy/eyJfcm
 Almost done desgining, got down the layout, started the routing process. The PCB will be roughly 24cm x 8 cm in size. IDK why it took soo long to get here. I think I might print a stand for it! ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--1d9a522957208ca79d5bd97b3559d3c705edf55d/image.png)
   
 
+## 11/9/2025 - Finished desgining the PCB  
+
+Finnished the pcb, all parts routed, all parts placed. This took way longer than I thought it would as usall, you never really think about it till you start logging it. Just now to get all the requirements and then finnally ship it! ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc4NywicHVyIjoiYmxvYl9pZCJ9fQ==--8760ed459ecb73188ae9fff5a77c78dc8e30afa3/image.png)
+  
+
