@@ -9,9 +9,9 @@ I was originally inspired by seeing a software demo by the YouTube channel, Figu
 <img width="1560" height="517" alt="image" src="https://github.com/user-attachments/assets/0e845a50-9630-47dc-960d-207c3b23bae1" />
 
 ## PCB and Stand Render
-Sadly not all the parts exported, might have to add them in
 
-<img width="952" height="721" alt="image" src="https://github.com/user-attachments/assets/574b28f3-5807-4069-9f5f-298ebd0f504c" />
+<img width="1585" height="1040" alt="Binary Clock" src="https://github.com/user-attachments/assets/0b96b060-4f47-454e-816b-06ccc492ef1d" />
+
 
 ## Schematic
 
