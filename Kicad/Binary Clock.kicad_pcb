@@ -23435,7 +23435,7 @@
 		(uuid "ef13589b-448b-4431-a66b-90ee74efe32a")
 		(at -97.63 -80.18)
 		(property "Reference" "Q3"
-			(at 0.03 -2.945 0)
+			(at 4.88 0.23 0)
 			(layer "F.SilkS")
 			(uuid "ce3e542d-5171-4ea3-84aa-61b89dcde595")
 			(effects
