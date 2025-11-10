@@ -2,7 +2,7 @@
 # What is it?
 A binary clock is a digital clock that displays the time using binary numbers instead of traditional digits. Each column represents a digit of time, so the first column is the Tens Dight of the hours, and every LED vertically is a number in binary format.
 # Why did I make it?
-I was originally inspired by seeing a software demo by the YouTube channel, Figuring Things Out. I wanted to try creating something similar but as a physical desk clock. The result is a clock that most people can't read but find cool. I like how the exposed PCB give it even more of that digital vibe.
+I was originally inspired by seeing a software demo by the YouTube channel, Figuring Things Out. I wanted to try creating something similar but as a physical desk clock. The result is a clock that most people can't read but find cool. I like how the exposed PCB give it even more of that digital aesthetic.
 
 
 ## PCB
